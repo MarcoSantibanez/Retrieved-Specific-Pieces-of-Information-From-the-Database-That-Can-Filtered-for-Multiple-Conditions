@@ -1,4 +1,4 @@
-# Retrieved-Specific-Pieces-of-Information-from-the-database-you-can-filter-for-multiple-conditions.
+# Retrieved-Specific-Pieces-of-Information-From-the-Database-With-Filters-for-Multiple-Conditions.
 
 My organization was working to make their system more secure. It was my job to ensure the system was safe, investigate all potential security issues,
 and update employee computers as needed. 
