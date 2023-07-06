@@ -1,5 +1,7 @@
 # Retrieved-Specific-Pieces-of-Information-From-the-Database-With-Filters-for-Multiple-Conditions.
 
+Tools used Linux CLI(command line interface) with SQL queries. 
+
 My organization was working to make their system more secure. It was my job to ensure the system was safe, investigate all potential security issues,
 and update employee computers as needed. 
 
